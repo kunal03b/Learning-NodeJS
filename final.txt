@@ -1,0 +1,3 @@
+What are you doing?
+ Hi. I am creating this file for reading.
+output
